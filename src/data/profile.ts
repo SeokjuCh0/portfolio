@@ -32,7 +32,7 @@ export const profile: Profile = {
       '인프라부터 AI 파이프라인까지, 실제로 동작하는 것을 만듭니다.',
     ],
   },
-  email: 'your@email.com',
+  email: 'kaja974546@gmail.com',
   initials: 'SJ',
   stats: [
     { label: { en: 'Projects', ko: '프로젝트' }, value: 5, suffix: '+' },
@@ -43,6 +43,6 @@ export const profile: Profile = {
   socials: [
     { name: 'GitHub', url: 'https://github.com/', icon: 'github' },
     { name: 'LinkedIn', url: 'https://linkedin.com/', icon: 'linkedin' },
-    { name: 'Email', url: 'mailto:your@email.com', icon: 'mail' },
+    { name: 'Email', url: 'mailto:kaja974546@gmail.com', icon: 'mail' },
   ],
 }
