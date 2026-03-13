@@ -20,16 +20,16 @@ export const techStack: TechItem[] = [
   // Database
   { name: 'PostgreSQL',   icon: `${CDN}/postgresql/postgresql-original.svg`,   category: 'Database' },
   { name: 'MySQL',        icon: `${CDN}/mysql/mysql-original.svg`,             category: 'Database' },
-  { name: 'Qdrant',                                                             category: 'Database' },
+  { name: 'Qdrant',       icon: 'https://cdn.simpleicons.org/qdrant/DC244C',     category: 'Database' },
 
   // Infrastructure
   { name: 'Nginx',        icon: `${CDN}/nginx/nginx-original.svg`,             category: 'Infrastructure' },
   { name: 'Docker',       icon: `${CDN}/docker/docker-original.svg`,           category: 'Infrastructure' },
-  { name: 'Portainer',                                                          category: 'Infrastructure' },
+  { name: 'Portainer',    icon: 'https://cdn.simpleicons.org/portainer/13BEF9',  category: 'Infrastructure' },
   { name: 'Linux',        icon: `${CDN}/linux/linux-original.svg`,             category: 'Infrastructure' },
 
   // AI & ML
-  { name: 'OpenAI',                                                             category: 'AI & ML' },
+  { name: 'OpenAI',       icon: 'https://cdn.simpleicons.org/openai/412991',     category: 'AI & ML' },
   { name: 'PyTorch',      icon: `${CDN}/pytorch/pytorch-original.svg`,         category: 'AI & ML' },
 
   // Tools
@@ -37,7 +37,7 @@ export const techStack: TechItem[] = [
   { name: 'Tailwind CSS', icon: `${CDN}/tailwindcss/tailwindcss-original.svg`, category: 'Tools' },
 
   // Version Control
-  { name: 'SVN',                                                                category: 'Version Control' },
+  { name: 'SVN',          icon: `${CDN}/subversion/subversion-original.svg`,     category: 'Version Control' },
   { name: 'GitLab',       icon: `${CDN}/gitlab/gitlab-original.svg`,           category: 'Version Control' },
   { name: 'GitHub',       icon: `${CDN}/github/github-original.svg`,           category: 'Version Control' },
 ]
